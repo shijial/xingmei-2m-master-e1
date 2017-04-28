@@ -1,0 +1,7 @@
+*.swp
+*.csv.gz
+*.tfrecord
+.ipynb_checkpoints/
+data/
+xm2m_model/
+*.pyc
